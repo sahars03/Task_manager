@@ -40,7 +40,7 @@ struct ContentView: View {
 struct ImageOverlay: View {
     var body: some View {
         VStack {
-            Text("Welcome to TaskBunny")
+            Text("Welcome to TaskBunnies")
                 .font(.title)
                 .fontWeight(.semibold)
                 .padding(12)
